@@ -1,4 +1,4 @@
 levitation_force = 0
 
-while 
+while levitation_force >= 10
 
