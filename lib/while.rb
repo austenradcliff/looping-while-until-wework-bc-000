@@ -1,4 +1,4 @@
-counter = 0
+levitation_force = 0
 
-
+while 
 
